@@ -3,6 +3,9 @@
 source 'http://rubygems.org'
 
 gem "middleman", "~>3.1.2"
+gem "sass"
+gem "compass"
+gem "slim"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
